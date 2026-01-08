@@ -1,7 +1,7 @@
 # Hi there, I'm ConfidentialDC 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Backend+Enthusiast;Performance+Optimizer;AI+Agent+Architect;Tech+for+Social+Good" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Backend;AI+Agents;Future;Innovation;Tech+for+Social+Good" alt="Typing SVG" />
 </p>
 
 ### 🇮🇳 Tech for Social Good | Backend Enthusiast | Performance Optimizer
@@ -23,7 +23,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConfidentialDC&layout=compact&theme=radical)
 
-#### ALternate account stats
+#### Alternate account stats
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
 
