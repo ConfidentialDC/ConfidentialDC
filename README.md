@@ -16,9 +16,9 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ConfidentialDC&show_icons=true&theme=radical&hide_border=false" alt="ConfidentialDC's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfidentialDC&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyomChaudhary&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -31,6 +31,5 @@ I am a developer driven by the intersection of **technology and public safety**.
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/divyom-chaudhary]
-
+* **LinkedIn:** [Divyom-Chaudhary](https://linkedin.com/in/divyom-chaudhary)
 > "Optimizing code to solve real-world problems, one millisecond at a time." 🌬️
