@@ -1,4 +1,4 @@
-# Hi there, I'm ConfidentialDC 👋 
+# Hi there, I'm Divyom Chaudhary 👋 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Backend;AI+Agents;Future;Innovation;Tech+for+Social+Good" alt="Typing SVG" />
@@ -58,7 +58,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=2026+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 > "Optimizing code to solve real-world problems, one millisecond at a time." 🌬️
