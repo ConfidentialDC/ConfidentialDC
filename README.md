@@ -24,7 +24,25 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack and stuff
+
+#### 💻 Core Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🤖 AI & Computer Vision
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### ☁️ Infrastructure & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboards-008080?style=for-the-badge&logo=databricks&logoColor=white)
+
 * **Languages:** Python, SQL (PostgreSQL/MySQL), JS
 * **Backend:** Node.js, FastAPI, Connection Pooling
 * **Tools:** Git, Docker, Linux
