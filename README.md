@@ -1,12 +1,14 @@
 # Hi there, I'm ConfidentialDC 👋 
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Backend+Enthusiast;Performance+Optimizer;AI+Agent+Architect;Tech+for+Social+Good" alt="Typing SVG" />
+</p>
+
 ### 🇮🇳 Tech for Social Good | Backend Enthusiast | Performance Optimizer
 
 I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to protect traffic personnel in India during high-AQI periods, ensuring those who keep our streets safe are protected by the latest in computer vision and data science.
 
 ---
-
-![Status](https://img.shields.io/badge/Status-Optimizing-green)
 
 ### 🛠️ What I'm working on
 - **[Traffic Edge Security System]:** Developing a platform to monitor air quality impact on personnel.
@@ -15,6 +17,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 ---
 
 ### 📊 My GitHub Stats
+*Performance isn't just a metric; it's a feature.*
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ConfidentialDC&show_icons=true&theme=radical)
 
@@ -23,8 +26,6 @@ I am a developer driven by the intersection of **technology and public safety**.
 #### ALternate account stats
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DivyomChaudhary&layout=compact&theme=radical)
 
 ---
 
@@ -55,4 +56,9 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 > "Optimizing code to solve real-world problems, one millisecond at a time." 🌬️
