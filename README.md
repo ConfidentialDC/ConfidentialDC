@@ -25,7 +25,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 #### Alternate account stats
 
-![Stats](github-readme-stats-two-omega-10.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
 
 ---
 
