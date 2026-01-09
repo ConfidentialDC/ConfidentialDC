@@ -25,9 +25,11 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 #### Alternate account stats
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-DivyomChaudhary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyomChaudhary)
+![Commits](https://img.shields.io/badge/Commits-66-brightgreen?style=for-the-badge&logo=git)
+![Stars](https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=githubstars&logoColor=white)
+![PRs](https://img.shields.io/badge/PRs-5-orange?style=for-the-badge&logo=github-pull-requests)
+![Contributed](https://img.shields.io/badge/Contributed_To-3-blue?style=for-the-badge&logo=gitpod)
 
 ### 🧰 Tech Stack and stuff
 
