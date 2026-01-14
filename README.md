@@ -11,7 +11,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 ---
 
 ### 🛠️ What I'm working on
-- **[Traffic Edge Security System](https://github.com/ConfidentialDC/NetraFlow.git):** Developing a platform to monitor air quality impact on personnel.
+- ** Developing a platform to monitor air quality impact on personnel.
 
 ---
 
