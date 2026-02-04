@@ -63,8 +63,8 @@ I am a developer driven by the intersection of **technology and public safety**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
 
 <p align="right">
-  <!-- todoist-start -->
-  <!-- todoist-end -->
+- **Karma:** <td-k></td-k> (<td-kl></td-kl>)
+- **Total Completed:** <td-tc></td-tc>
   <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=2026+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
