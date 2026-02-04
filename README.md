@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src="https://tenor.com/view/solo-leveling-solo-leveling-season-2-solo-leveling-arise-sung-jin-woo-gif-8242011946475463671" width="150" alt="Arise">
+  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" width="150" alt="Arise">
 </p>
 
 # Hi there, I'm Divyom Chaudhary 👋 
