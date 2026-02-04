@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" width="350" alt="Arise">
+  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" width="300" alt="Arise">
 </p>
 
 # Hi there, I'm Divyom Chaudhary 👋 
