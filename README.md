@@ -24,8 +24,6 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ConfidentialDC&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConfidentialDC&layout=compact&theme=radical)
-
 #### Alternate account stats
 
 [![GitHub](https://img.shields.io/badge/GitHub-DivyomChaudhary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyomChaudhary)<br>
@@ -63,8 +61,8 @@ I am a developer driven by the intersection of **technology and public safety**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
 
 <p align="right">
-- **Karma:** <td-k></td-k> (<td-kl></td-kl>)
-- **Total Completed:** <td-tc></td-tc>
+<!-- - **Karma:** <td-k></td-k> (<td-kl></td-kl>)
+- **Total Completed:** <td-tc></td-tc> -->
   <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=2026+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
